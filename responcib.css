@@ -1,0 +1,123 @@
+
+
+
+@media ( max-width: 1200px){
+ .top-menu .hader-menu{
+    box-sizing: border-box;
+
+}
+*, ::after, ::before {
+	box-sizing: border-box;
+	align-items: center;
+}
+.footer ul li a {
+	width: 38px;
+}
+ }
+
+@media ( max-width: 1024px){
+    .about-section .p {
+	width: 51%;
+	margin: auto;	
+}
+}
+@media ( max-width: 992px){
+
+    .left-logo{
+    padding: 4px 8px;
+    width: 100%;
+    text-align: center;
+    }
+    .right-side ul {
+	text-align: center;
+}
+   .service-item {
+	margin-top: 66px;
+	width: 100%;
+}
+.service-item span {
+	margin-left: 321px;
+
+}
+.blog-right {
+	margin-top: 41px;
+	width: 100%;
+}
+.text-center.text-muted {
+	width: 75%;
+	margin: auto;
+}
+
+}
+
+@media ( max-width: 768px){
+    .left-logo {
+	padding: 12px 0px;
+}
+.right-side {
+	width: 100%;
+}.right-side ul li a {
+	padding: 5px 93px;
+}
+.service-item span {
+	margin-left: 234px;
+}
+.service-item {
+	margin-top: 10px;
+}
+.about-section .p {
+	width: 100%;
+}
+.contact-section {
+	margin-top: 22px;
+}
+.baner-text {
+	padding: 52px 0;	
+}
+}
+
+@media (max-width: 576px){
+    .right-side ul li a {
+	padding: 5px 100px;
+}
+    .left-logo {
+	border-bottom: 2px solid white;
+}
+.baner-text h1 {
+	font-size: 20px;
+}
+.baner-text strong {
+	display: block;
+	padding: 15px 0;
+	margin-bottom: 6px;
+	font-size: 10px;
+}
+.baner-text button {
+	border: 2px solid white;
+	font-weight: 700;
+	padding: 2px 13px;
+	font-size: 13px;
+}
+.service-item span {
+	margin-left: 218px;
+	width: 40px;
+	height: 40px;
+    text-align: center;
+	line-height: 40px;
+	display: inline-block;
+}
+}
+
+@media (max-width: 576px){
+    
+}
+
+@media (max-width:330px){
+    .service-item span {
+	margin-left: 125px;
+}
+@media (max-width: 200px){
+    .service-item span {
+	margin-left: 120px;
+}
+
